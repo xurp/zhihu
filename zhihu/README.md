@@ -1,4 +1,5 @@
-# ZhiHu
+# ZhiHu---克隆修改来源：https://github.com/songwell1024/ZhiHu.git
+
 SpringBoot2.0+SpringMVC+Mybatis 仿写知乎问答的网站
 # 实现的功能：
 登陆注册，增删改查，提问，评论，敏感词过滤，站内信，点赞，新鲜事，邮件通知，solr搜索等<br>
